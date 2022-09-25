@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    color: black;
+    border-radius: 5%;
+    padding-top: 60px;
+    overflow: hidden
+
+}
+
+aside {
+    background-color: white;
+    border-radius: 5px;
+    width: 80%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+    padding: 60px;
+    padding-top: 210px;
+    text-align: center;
+}
+
+img {
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    top: 100px;
+    left: 150px;
+}
+
+p a {
+    margin: 24px;
+    margin-left: auto;
+    margin-right: auto;;
+    font-size: 150%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    color: black;
+    padding: 15px;
+    border-radius: 25px;
+    width: 60%;
+    display: block;
+    text-decoration: none;
+    border : 3px solid black;
+}
+
+p a:hover {
+    background-color: rgba(208, 208, 208, 0.95);
+}

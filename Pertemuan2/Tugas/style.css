@@ -1,0 +1,48 @@
+img{
+    width: 50%;
+    height: auto;
+    border: 2px white;
+    margin: 10px;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
+    padding-left: 15px;
+}
+
+aside {
+    background-color: rgb(22, 206, 220);
+    width: 30%;
+    height: 200%;
+    padding: 8px;
+    float: left;
+    margin-right: 20px;
+}
+
+div {
+    background-color: rgb(135, 189, 227);
+    height: 200%;
+    width: 100%;
+    margin: 0;
+}
+
+table, th, td {
+    text-align: left;
+    padding: 0 8px;
+    padding-left: 0px;
+}

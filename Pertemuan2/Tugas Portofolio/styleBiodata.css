@@ -1,0 +1,122 @@
+img{
+    width: 15%;
+    height: auto;
+    border: 2px white;
+    margin: 10px;
+    border-radius: 10%;
+}
+
+aside {
+    background-color: white;
+    border-radius: 5px;
+    width: 80%;
+    height: 215%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+    padding: 60px;
+    
+}
+
+body {
+    background-color: black;
+    color: black;
+    border-radius: 5%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+h1{
+    margin: 15px;
+    font-size: 300%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nama {
+    margin: 15px;
+    font-size: 130%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about {
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 20px;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    margin: 15px;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 27px;
+}
+
+.pendidikan {
+    float: left;
+    width: 50%;
+    height: 200px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.pengalaman {
+    float: left;
+    width: 50%;
+    height: 200px;
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+
+}
+
+.project iframe {
+    float: left;
+    width: calc(50% - 40px);
+    height: 22%;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+a {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+.kosong {
+    clear: both;
+}
+
+li {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding-left: 0;
+}
+
+ul {
+    margin: 0;
+    padding-left: 34px;
+}
+
+.kontak img {
+    width: 35px;
+}
+
+.kontak table :hover{
+    color: rgba(208, 208, 208, 0.95);
+    margin-left: 5px;
+
+}
